@@ -1,0 +1,10 @@
+C:\Users\sshedage1\source\repos\Server\Server\obj\Debug\Server.vbprojResolveAssemblyReference.cache
+C:\Users\sshedage1\source\repos\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\sshedage1\source\repos\Server\Server\obj\Debug\Server.Resources.resources
+C:\Users\sshedage1\source\repos\Server\Server\obj\Debug\Server.vbproj.GenerateResource.cache
+C:\Users\sshedage1\source\repos\Server\Server\obj\Debug\Server.vbproj.CoreCompileInputs.cache
+C:\Users\sshedage1\Desktop\Multithreding\Server\Server\obj\Debug\Server.vbprojResolveAssemblyReference.cache
+C:\Users\sshedage1\Desktop\Multithreding\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\sshedage1\Desktop\Multithreding\Server\Server\obj\Debug\Server.Resources.resources
+C:\Users\sshedage1\Desktop\Multithreding\Server\Server\obj\Debug\Server.vbproj.GenerateResource.cache
+C:\Users\sshedage1\Desktop\Multithreding\Server\Server\obj\Debug\Server.vbproj.CoreCompileInputs.cache
